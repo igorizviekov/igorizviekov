@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @igorizviekov
-- 📫 How to reach me ...
+- 👋 Hi, I’m @igorizviekov, a web developer
 
 <!--- `README.md` (this file) appears on your GitHub profile. --->
