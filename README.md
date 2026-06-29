@@ -1,6 +1,6 @@
 ## Hello 👋 My name is Igor Izviekov.
 
-I am a fullstack TypeScript developer of web3 and mobile applications.
+I am a fullstack TypeScript developer of AI automations, web3 and mobile applications.
 
 <!--
 **igorizviekov/igorizviekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
