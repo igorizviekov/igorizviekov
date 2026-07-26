@@ -1,4 +1,4 @@
-## Hello 👋 My name is Igor Izviekov.
+## Hello 👋
 
 I am a fullstack TypeScript developer of AI automations, web3 and mobile applications.
 
